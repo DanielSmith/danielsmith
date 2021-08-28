@@ -1,6 +1,9 @@
 ![image](https://user-images.githubusercontent.com/167197/131230256-dc9f584f-6528-4304-a079-21245ea900b5.png)
 
-### Hi there 👋
+# 👋 Hi there
+ 👋
+
+oh cool...
 
 <!--
 **DanielSmith/danielsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[Projects](./projects.md)
