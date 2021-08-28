@@ -1,15 +1,14 @@
 ![image](https://user-images.githubusercontent.com/167197/131230256-dc9f584f-6528-4304-a079-21245ea900b5.png)
 
-# 👋 Hi there
- 👋
+# `Profile of Daniel Smith`
 
-oh cool...
 
 <!--
 **DanielSmith/danielsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+👋 Hi there
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[Projects](projects.md)
 -->
-
-
-[Projects](./projects.md)
