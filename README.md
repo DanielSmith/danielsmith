@@ -1,7 +1,26 @@
-![image](https://user-images.githubusercontent.com/167197/131230256-dc9f584f-6528-4304-a079-21245ea900b5.png)
+![image](https://images.unsplash.com/photo-1575372587186-5012f8886b4e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 
-# `Profile of Daniel Smith`
+## `Hello from Daniel Smith`
 
+_I am writing this... it's not near done.. avert your eyes_
+
+
+## Introduction
+
+I am web/app developer that enjoys mixing the creative and technical sides.  I can be happy on the front end, the server (or serverless) side, or both. A few special interests are Social media, Mapping, and Search that melds Location, Time, and Tags.
+
+* 🖥️ `Front End` - Vue (Pinia/Vite/Parcel/etc), React (Zustand), Tailwind CSS
+* 🔌`Back End` - Mostly Node, Express, MongoDB, MySQL.  Used to LAMP, now I JAMStack.  Learning Python
+* ⚡ `More Buzzwords` - Netlify, AWS (Lambda, S3, API Gateway, SNS, DynamoDB)
+* 🏠 `Location` - I am currently in Indianapolis.  I am a native Californian, mostly SF Bay Area.  I also lived in NYC for a couple of years, and loved it.
+* 📽️ `Besides Tech` - I'm always picking up my Guitar. I love Film and Travel
+* 📜 `Resume` - My resume is at [resume.daniel.org](http://resume.daniel.org)
+
+## Goals
+
+## Experience
+
+### Self Interview
 
 <!--
 **DanielSmith/danielsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +40,6 @@ Here are some ideas to get you started:
 
 [Projects](projects.md)
 -->
+
+
+[image credit: Andrea Belussi / Unsplash](https://unsplash.com/photos/-cTrOFIF12Q)
