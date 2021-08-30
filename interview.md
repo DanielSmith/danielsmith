@@ -5,9 +5,9 @@
 
 Yep! I think it's important to have a couple of core ideas in mind when it comes to every team member:
 
-* insight - have at least some surface knowledge about all parts that come together - know your strong points, your core areas, and theirs.
 * respect - everyone has their own specialty, and they bring something to the table.  Admire what every stakeholder contributes.
-
+* insight - have at least some surface knowledge about all parts that come together - know your strong points, your core areas, and theirs.
+* be supportive!
 
 Offer to listen.  Be a mentor (but never force that).  The important thing is making customers (external and internal) happy.  Your customers could care less about internal politics or silly fiefdoms.  They want to be happy with their experience with your product.  Focus on what's important, and don't be petty with anyone.
 
@@ -15,7 +15,7 @@ Offer to listen.  Be a mentor (but never force that).  The important thing is ma
 
 ## Tell us about Front End tech you use?  We have this old monster jQuery thing...
 
-jQuery and AJAX were fun.  It made things a lot easier.  Thankfully, JavaScript has really caught up (from ES6 onward).  It's still something I could refamiliarize with, and get a lot done.  I'd try to talk you out of launching any brand new work with jQuery.
+jQuery and AJAX were fun.  It made things a lot easier.  Thankfully, JavaScript has really caught up (from ES6 onward).  It's still something I could refamiliarize with, and get a lot done.
 
 The big revelation with learning React or Vue is the idea of Reactive Programming.  I always thought of it as "the change to this variable fires off an event".
 
@@ -41,6 +41,7 @@ There are some things from that era that I'd happily use in new projects (MySQL,
 I like calling 3rd party APIs, such as Google Maps and Places, GeoJSON, Yelp, etc.
 
 I am learning Python - that will be a starting point towards knowing more of the AI/ML side.
+
 ----
 
 ## So, you've been working with AWS lately?  Do you want to be DevOps person?
