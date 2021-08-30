@@ -1,6 +1,18 @@
 ### [Back to Main Page](README.md)
 
 
+## Do you work well with others?
+
+Yep! I think it's important to have a couple of core ideas in mind when it comes to every team member:
+
+* insight - have at least some surface knowledge about all parts that come together - know your strong points, your core areas, and theirs.
+* respect - everyone has their own specialty, and they bring something to the table.  Admire what every stakeholder contributes.
+
+
+Offer to listen.  Be a mentor (but never force that).  The important thing is making customers (external and internal) happy.  Your customers could care less about internal politics or silly fiefdoms.  They want to be happy with their experience with your product.  Focus on what's important, and don't be petty with anyone.
+
+----
+
 ## Tell us about Front End tech you use?  We have this old monster jQuery thing...
 
 jQuery and AJAX were fun.  It made things a lot easier.  Thankfully, JavaScript has really caught up (from ES6 onward).  It's still something I could refamiliarize with, and get a lot done.  I'd try to talk you out of launching any brand new work with jQuery.
@@ -13,7 +25,7 @@ Along with modern JS and frameworks/libs such as Svelte, React, and Vue, there's
 
 I am relieved that Flexbox and Grid support is universally supported in modern browsers. I dont know every nuance of CSS, but I appreciate being able to get a lot done with Tailwind CSS.
 
-It is easier to keep up with Back End/Serverless Technologies.
+It is easier to keep up with Back End/Serverless Technologies.  The Front End is always going to be the Wild West of Programming.
 
 ----
 
@@ -45,7 +57,7 @@ My recent project used Lambda functions (Node.js) to concatenate mp3/mp4 media s
 
 ## Would you go to the whiteboard and invert this binary tree?
 
-Ha ha!  Yeah, I do know the answer to that one.  What do you people do all day?  Perhaps ask me a question that is relevant to solving a current issue that you have?
+Ha ha!  Yeah, I do know the answer to that one.  Remind me, *What* do you people do all day?  Perhaps ask me a question that is relevant to solving a current issue that you have?
 
 I once had an interview with a major retailer about front end work on their catalog site.  They asked me to implement "Conways Game of Life" (Cellular Automata).  I did a fine job, but, seriously, keep it relevant.
 
@@ -56,6 +68,9 @@ My dream interview is to meet with folks from a wide variety of discplines (Desi
 
 ## Where do you see yourself five years from now?
 
+Starting a Digital Studio, to bring a wide range of Creative and Tech capabilities under one roof (real or virtual).  Personally, I'd love to convert a big Old Barn into a studio.
+
+I have interests that span a lot of things: 3D, Photo, Video, Sound Design, Mapping, Search, etc.  I've always been a generalist, and it's always my goal to want to be able to talk with the folks in those areas, and to have at least some insight in what they do.  I want to be someone that can glue together teams that can do amazing projects.
 
 
 
