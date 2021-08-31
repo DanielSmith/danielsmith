@@ -16,9 +16,25 @@ I am web/app developer that enjoys mixing the creative and technical worlds.  I 
 * 📽️ `Besides Tech` - I'm always picking up my Guitar. I love Film and Travel - Am way overdue for a Road Trip.
 * 📜 `Resume` - is at [resume.daniel.org](http://resume.daniel.org)
 
+## Projects / Writing
+
+An overall interest of mine would be "how do we search through media, by time, place, or tags?"  There's all sorts of things that tie into that.. how do you store it, what is the UI, and so on.  Another thing that ties in, but can very much stand on its own, is this idea of attaching dynamic menus to links and images.
+
+So, having mentioned that, I can point at some work where I am poking around at those themes:
+
+* [alap - Menus For Links](https://dev.to/danielsmith/alap-menus-for-links-5e95)
+* [Alap demo site](https://alap.info/)
+* [Alap Editor: Vue Version Demo](https://editor-vue.alap.info/)
+* [Alap Github Repo](https://github.com/DanielSmith/alap) - [Alap editor: Vue Version Repo](https://github.com/DanielSmith/alap-editor-vue)
+* [Mapping Cites w/GeoJSON](https://medium.com/js-dojo/how-to-map-cities-with-vue-geojson-and-google-box-set-7d9afd486070)
+* [An old (2017) look at ThereThenThat - Mapping Web Addresses to Location, Time, and Tags](https://javajoint.medium.com/therethenthat-mapping-web-addresses-to-location-time-and-tags-december-20-2017-copyright-2003-6df810a0e49a)
+
+
+<!-- 
 ## Goals
 
 ## Experience
+-->
 
 ### Self Interview
 

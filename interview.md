@@ -1,5 +1,8 @@
 ### [Back to Main Page](README.md)
 
+## Intro
+
+I am up for finding my next gig.  I had the hunch that writing down a self interview might give me some practice.
 
 ## Do you work well with others?
 
@@ -14,6 +17,8 @@ Offer to listen.  Be a mentor (but never force that).  The important thing is ma
 ----
 
 ## Tell us about Front End tech you use?  We have this old monster jQuery thing...
+
+I do Vue and React these days, but...
 
 jQuery and AJAX were fun.  It made things a lot easier.  Thankfully, JavaScript has really caught up (from ES6 onward).  It's still something I could refamiliarize with, and get a lot done.
 
@@ -44,15 +49,15 @@ I am learning Python - that will be a starting point towards knowing more of the
 
 ----
 
-## So, you've been working with AWS lately?  Do you want to be DevOps person?
+## So, you've been working with AWS lately...  Do you want to be DevOps person?
 
-Nope!  There is so much more to the Cloud than the operations side.
+Not a goal! There is so much more to the Cloud than the operations side.
 
 To be clear, I like the simplicity of dropping a folder on Netlify, and having it take care of so much for me.
 
 However, I like AWS from a project standpoint - gluing together a bunch of services.  I am not looking to be a networking/operations guru.  I was a sysadmin, long ago, for Industrial Light & Magic (Lucasfilm), so I do have a little insight.
 
-My recent project used Lambda functions (Node.js) to concatenate mp3/mp4 media sources (of tech interviews), and produce clip highlights (driven from a JSON file of inputs and outputs). It used API Gateway, S3, EFS, SNS, and DynamoDB.  I used layers to run ffmpeg.  Learned a lot, and am nowstudying for an AWS Certificate.
+My recent project used Lambda functions (Node.js) to concatenate mp3/mp4 media sources (of tech interviews), and produce clip highlights (driven from a JSON file of inputs and outputs). It used API Gateway, S3, EFS, SNS, and DynamoDB.  I used layers to run ffmpeg.  Learned a lot, and am now studying for an AWS Certificate.
 
 ----
 
@@ -66,13 +71,12 @@ My dream interview is to meet with folks from a wide variety of discplines (Desi
 
 ----
 
-
 ## Where do you see yourself five years from now?
 
 Starting a Digital Studio, to bring a wide range of Creative and Tech capabilities under one roof (real or virtual).  Personally, I'd love to convert a big Old Barn into a studio.
 
-I have interests that span a lot of things: 3D, Photo, Video, Sound Design, Mapping, Search, etc.  I've always been a generalist, and it's always my goal to want to be able to talk with the folks in those areas, and to have at least some insight in what they do.  I want to be someone that can glue together teams that can do amazing projects.
+I have interests that span a lot of things: 3D, Photo, Video, Sound Design, Mapping, Search, etc.  I've always been a generalist, and it's always my goal to want to be able to talk with the folks in those areas, and to have at least some insight in what they do.  I want to be someone that can help glue together teams that can do amazing projects.
 
-
+----
 
 ### [Back to Main Page](README.md)
