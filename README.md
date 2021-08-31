@@ -2,9 +2,6 @@
 
 ## `Hello from Daniel Smith`
 
-_I am writing this... it's not near done.. avert your eyes_
-
-
 ## Introduction
 
 I am web/app developer that enjoys mixing the creative and technical worlds.  I can be happy on the front end, the server (or serverless) side, or both. A few special interests are Social media, Mapping, and Search that melds Location, Time, and Tags.
