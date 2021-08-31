@@ -36,9 +36,11 @@ So, having mentioned that, I can point at some work where I am poking around at 
 ## Experience
 -->
 
-### Self Interview
+## Self Interview
 
-I can give myself a few softball questions about Tech and a few other things.
+Gave myself [a few softball questions](interview.md) about Tech and a few other things.
+
+----
 
 <!--
 **DanielSmith/danielsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
