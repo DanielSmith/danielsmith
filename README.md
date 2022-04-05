@@ -21,6 +21,7 @@ So, having mentioned that, I can point at some work where I am poking around at 
 
 * [alap - Menus For Links](https://dev.to/danielsmith/alap-menus-for-links-5e95)
 * [Alap demo site](https://alap.info/)
+* [Alap Editor: React Version Demo](https://editor-react.alap.info/)
 * [Alap Editor: Vue Version Demo](https://editor-vue.alap.info/)
 * [Alap Github Repo](https://github.com/DanielSmith/alap) - [Alap editor: Vue Version Repo](https://github.com/DanielSmith/alap-editor-vue)
 * [Mapping Cites w/GeoJSON](https://medium.com/js-dojo/how-to-map-cities-with-vue-geojson-and-google-box-set-7d9afd486070)
