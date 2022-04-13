@@ -6,8 +6,8 @@
 
 I am web/app developer that enjoys mixing the creative and technical worlds.  I can be happy on the front end, the server (or serverless) side, or both. A few special interests are Social media, Mapping, and Search that melds Location, Time, and Tags.
 
-* 🖥️ `Front End` - Vue (Pinia/Vite/Parcel/etc), React (Zustand), Tailwind CSS
-* 🔌`Back End` - Mostly Node, Express, MongoDB, MySQL.  Used to LAMP, now I JAMStack.  Learning Python
+* 🖥️ `Front End` - Vue (Pinia/Vite/Parcel/etc), React (Zustand), Tailwind CSS, Bootstrap
+* 🔌`Back End` - Mostly Node, Express, MongoDB, MySQL, PHP.  Used to be more LAMP, now I JAMStack.  Learning Laravel and TALL.
 * ⚡ `More Buzzwords` - Netlify, AWS (Lambda, S3, API Gateway, SNS, DynamoDB)
 * 🏠 `Location` - I am currently in Indianapolis.  I am a native Californian, mostly SF Bay Area.  I also loved living in NYC (Upper West) for a couple of years.
 * 📽️ `Besides Tech` - I'm always picking up my Guitar. I love Film and Travel - Am way overdue for a Road Trip.
