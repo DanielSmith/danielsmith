@@ -18,17 +18,17 @@ Offer to listen.  Be a mentor (but never force that).  The important thing is ma
 
 ## Tell us about Front End tech you use?  We have this old monster jQuery thing...
 
-I do Vue and React these days, but...
+I do React, Next.js, and some Vue these days, but...
 
 jQuery and AJAX were fun.  It made things a lot easier.  Thankfully, JavaScript has really caught up (from ES6 onward).  It's still something I could refamiliarize with, and get a lot done.
 
 The big revelation with learning React or Vue is the idea of Reactive Programming.  I always thought of it as "the change to this variable fires off an event".
 
-I prefer Vue to React, but am happy with both.  Although I know Vuex (for state management), I prefer Pinia for my personal projects. Same on the React side... I can work with Redux, but much prefer an approach such as [Zustand](https://zustand.surge.sh/)
+I am focused on React and Next.js. As far as state management on the React side... I can work with Redux, but much prefer an approach such as [Zustand](https://zustand.surge.sh/).  Same idea in Vue (I know Vuex, but prefer Pinia)
 
 Along with modern JS and frameworks/libs such as Svelte, React, and Vue, there's a whole ecosystem to support it. I like Vite or Parcel.  They make developing and building straightforward.
 
-I am relieved that Flexbox and Grid support is universally supported in modern browsers. I dont know every nuance of CSS, but I appreciate being able to get a lot done with Tailwind CSS.
+I am relieved that Flexbox and Grid support is universally supported in modern browsers. I dont know every nuance of CSS, but I appreciate being able to get a lot done with Tailwind CSS.  I'm also learning Radix.
 
 It is easier to keep up with Back End/Serverless Technologies.  The Front End is always going to be the Wild West of Programming.
 
@@ -57,7 +57,7 @@ To be clear, I like the simplicity of dropping a folder on Netlify, and having i
 
 However, I like AWS from a project standpoint - gluing together a bunch of services.  I am not looking to be a networking/operations guru.  I was a sysadmin, long ago, for Industrial Light & Magic (Lucasfilm), so I do have a little insight.
 
-My recent project used Lambda functions (Node.js) to concatenate mp3/mp4 media sources (of tech interviews), and produce clip highlights (driven from a JSON file of inputs and outputs). It used API Gateway, S3, EFS, SNS, and DynamoDB.  I used layers to run ffmpeg.  Learned a lot, and am now studying for an AWS Certificate.
+My recent project used Lambda functions (Node.js) to concatenate mp3/mp4 media sources (of tech interviews), and produce clip highlights (driven from a JSON file of inputs and outputs). It used API Gateway, S3, EFS, SNS, and DynamoDB.  I used layers to run ffmpeg.  Learned a lot, ad have done some studying for an AWS Certificate.
 
 ----
 
