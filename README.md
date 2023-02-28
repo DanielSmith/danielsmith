@@ -34,7 +34,7 @@ So, having mentioned that, I can point at some work where I am poking around at 
 ## Experience
 -->
 
-## Tech Stack Details
+## Tech Stack Details dls
 
 ## Self Interview
 
