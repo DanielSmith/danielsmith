@@ -58,7 +58,7 @@ Private. General idea was to input Real Estate title information to be stored on
 - Docker
 - AWS S3
 - MongoDB for order storage
-- MySQL for retreiving NYC Acris title info
+- MySQL for retrieving NYC Acris title info
 
 ### How To Map Cities With Vue, GeoJSON, And Google: Box Set (5 part article)
 
