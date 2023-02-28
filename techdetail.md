@@ -22,14 +22,14 @@ My side project that implements dynamic menus for common web links (not limited 
 
 - Core Alap - [npm package](https://www.npmjs.com/package/alap) - [alap on github](https://github.com/DanielSmith/alap)
   - Parcel, ES6
-- Alap Editor Demo (React) - [demo @ editor-react.alap.info](https://editor-react.alap.info/) [github](https://github.com/DanielSmith/alap-editor-react)
+- Alap Editor Demo (React) - [demo @ editor-react.alap.info](https://editor-react.alap.info/) - [github repo](https://github.com/DanielSmith/alap-editor-react)
 
   - React with Zustand and Immer
   - Vite
   - Tailwind
   - Deployed to Netlify
 
-- Alap Editor Demo (Vue) - [demo @ editor-vue.alap.info](https://editor-vue.alap.info/) [github](https://github.com/DanielSmith/alap-editor-vue)
+- Alap Editor Demo (Vue) - [demo @ editor-vue.alap.info](https://editor-vue.alap.info/) - [github repo](https://github.com/DanielSmith/alap-editor-vue)
   - Vue 3 with Pinia
   - Vite
   - Tailwind
