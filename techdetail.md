@@ -62,7 +62,7 @@ Private. General idea was to input Real Estate title information to be stored on
 
 ### How To Map Cities With Vue, GeoJSON, And Google: Box Set (5 part article)
 
-A side project of mine. I did similar work on a much larger scale with TAB Analytics (yes, I cleared this side project).
+A side project of mine ([5 part box set of articles @ Medium](https://medium.com/js-dojo/how-to-map-cities-with-vue-geojson-and-google-box-set-7d9afd486070)) I did similar work on a much larger scale with TAB Analytics (yes, I cleared this side project).
 
 - Extended example that illustrates searching and mapping that is filtered to within City Boundaries
 - Vue 2 with EventBus
