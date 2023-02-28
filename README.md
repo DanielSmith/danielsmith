@@ -34,11 +34,13 @@ So, having mentioned that, I can point at some work where I am poking around at 
 ## Experience
 -->
 
-## Tech Stack Details dls
+## Tech Stack Details (TK)
+
+Some detail about [tech I have used on different projects](techdetail.md)
 
 ## Self Interview
 
-Gave myself [a few softball questions](interview.md) about Tech and a few other things.
+Gave myself [a few questions](interview.md) about Tech and other things.
 
 ---
 
