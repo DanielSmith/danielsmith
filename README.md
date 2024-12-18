@@ -12,8 +12,7 @@ I am web/app developer that enjoys mixing the creative and technical worlds. I c
 - 🏠 `Location` - I am currently in Indianapolis. I am a native Californian, mostly SF Bay Area. I also loved living in NYC (Upper West) for a couple of years.
 - 📽️ `Besides Tech` - I'm always picking up my Guitar. I love Film and Travel - Am way overdue for a Road Trip.
 - 📜 `Resume` - is at [resume.daniel.org](http://resume.daniel.org)
-- :anchor: `Social` - [@javajoint@mastodon.social](https://mastodon.social/@javajoint)
-
+- :anchor: `Social` - [https://bsky.app/profile/dansmithcreates.bsky.social](https://bsky.app/profile/dansmithcreates.bsky.social)
 ## Projects / Writing
 
 An overall interest of mine would be "how do we search through media, by time, place, or tags?" There's all sorts of things that tie into that.. how do you store it, what is the UI, and so on. Another thing that ties in, but can very much stand on its own, is this idea of attaching dynamic menus to links and images.
