@@ -11,7 +11,7 @@ I am web/app developer that enjoys mixing the creative and technical worlds. I c
 - ⚡ `More Buzzwords` - Netlify, AWS (Lambda, S3, API Gateway, SNS, DynamoDB)
 - 🏠 `Location` - I am currently in Indianapolis. I am a native Californian, mostly SF Bay Area. I also loved living in NYC (Upper West) for a couple of years.
 - 📽️ `Besides Tech` - I'm always picking up my Guitar. I love Film and Travel - Am way overdue for a Road Trip.
-- 📜 `Resume` - [resume.dansmithcreates.org](http://resume.dansmithcreates.org) - [ATS / Text Version](https://resume.daniel.org/DanielSmithResume.txt)
+- 📜 `Resume` - [resume.dansmithcreates.org](http://resume.dansmithcreates.org) - Versions: [ATS / Text](https://resume.dansmithcreates.org/DanielSmithResume.txt) - [PDF](https://resume.dansmithcreates.org/DanielSmithResume.pdf) - [Word](https://resume.dansmithcreates.org/DanielSmithResume.docx)
 - :anchor: `Social` - [https://bsky.app/profile/dansmithcreates.bsky.social](https://bsky.app/profile/dansmithcreates.bsky.social)
 - :email: `Contact` - on gmail I am at javajoint
 ## Projects / Writing
