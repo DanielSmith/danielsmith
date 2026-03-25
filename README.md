@@ -22,7 +22,6 @@ So, having mentioned that, I can point at some work where I am poking around at 
 
 - [alap - Menus For Links](https://dev.to/danielsmith/alap-menus-for-links-5e95)
 - The Alap site is being updated this week, for some reason :)
-- [Alap Github Repo](https://github.com/DanielSmith/alap) - [Alap editor: Vue Version Repo](https://github.com/DanielSmith/alap-editor-vue)
 - [Mapping Cites w/GeoJSON](https://medium.com/js-dojo/how-to-map-cities-with-vue-geojson-and-google-box-set-7d9afd486070)
 - [An old (2017) look at ThereThenThat - Mapping Web Addresses to Location, Time, and Tags](https://javajoint.medium.com/therethenthat-mapping-web-addresses-to-location-time-and-tags-december-20-2017-copyright-2003-6df810a0e49a)
 
